@@ -9,6 +9,7 @@ alias gits='git status'
 alias gitp='git pull'
 
 # Get fast to Repositories
+alias src="cd ~/src" # personal main git directory
 alias Ansible='cd ~/src/Ansible/'
 alias github-dir='cd ~/src/ZZZ_GitHub'
 
